@@ -1,3 +1,7 @@
+> **Archived - moved to forge-standard**
+>
+> This repo is archived. Use [`SriChandraSekharA/forge-standard`](https://github.com/SriChandraSekharA/forge-standard) instead. See `ARCHIVED_NOTICE.md` for details.
+
 # qodo-standard-review
 
 **Quota-free Qodo-standard code review** — local PR memory, security audit, and iterative review-loop. No API quota.
